@@ -1,4 +1,4 @@
-# Updated-Langchain
+# Langchain
 
 ## Complete Langchain Projects using LLM & RAG
 
